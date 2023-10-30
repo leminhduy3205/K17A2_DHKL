@@ -1,4 +1,3 @@
-
 #Chương trình thứ 2
 # Tính toán số học
 x= float(input("Nhập giá trị x:"))
