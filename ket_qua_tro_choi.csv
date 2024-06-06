@@ -1,0 +1,9 @@
+ViTri1,ViTri2,LaBai1,LaBai2,XacSuat1,XacSuat2,TimDuocCap
+0,1,G,D,0.1,0.1,False
+2,3,E,G,0.15,0.1,False
+4,5,F,F,0.1,0.1,True
+6,7,B,C,0.15,0.2,False
+8,9,C,H,0.2,0.1,False
+10,11,D,C,0.1,0.2,False
+12,13,A,E,0.1,0.15,False
+14,15,F,B,0.1,0.15,False
